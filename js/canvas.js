@@ -109,10 +109,7 @@ window.onload = function () {
     document.getElementById('rememberIt').addEventListener('click', rememberIt);
     document.getElementById('reStart').addEventListener('click', reStart);
     document.getElementById('readMe').addEventListener('click', function(){
-        Tip.alert('无论结果怎样，想请您帮个忙：'
-            + '\n请浪费您的一点时间，对我的代码进行评价，'
-            + '\n以方便本人看清自己的水平，万分感谢！'
-            + '\n作者：杨健;'
+        Tip.alert('作者：杨健;'
             + '\nQQ：569628556;'
             + '\n电话：18380460524;'
             + '\n邮箱：569628556@qq.com;');
