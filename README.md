@@ -1,3 +1,6 @@
+腾讯前端（外聘）笔试题，面试未通过，不过笔试题面试官评价：很好。
+作品详细介绍如下：
+
 ##提交文档解析
 文档结构较为简单，文件夹中dom.html为dom版本，canvas.html为canvas版本，js文件夹包含三个js文件：conmmon.js，dom.js，canvas.js，css文件夹包含common.css文件。
 ***
