@@ -98,9 +98,7 @@ window.onload = function () {
     document.getElementById('rememberIt').addEventListener('click', rememberIt);
     document.getElementById('reStart').addEventListener('click', reStart);
     document.getElementById('readMe').addEventListener('click', function(){
-        Tip.alert('作者：杨健;'
-            + '\nQQ：569628556;'
-            + '\n电话：18380460524;'
+        Tip.alert('作者：jian6789;'
             + '\n邮箱：569628556@qq.com;');
     });
     
